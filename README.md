@@ -1,6 +1,6 @@
 # Hi, I'm Carolin James
 
-**Software Engineer · AI/ML Engineer · Green Card Holder**
+**Software Engineer · AI/ML Engineer**
 
 5+ years building enterprise software and production-ready ML systems — from ERP platforms to RAG-powered fraud detection. Currently working at **The Orbital Locker Ltd.** designing AI pipelines for space startup incubation.
 
